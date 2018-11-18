@@ -24,7 +24,7 @@ In it, I intended to explore the AirBnB Boston Housing dataset along three quest
 
 3. **File Descriptions
 
-    - Data: Folder containing data files. 
+    - Data:
         
         - boston_listings.csv: Comma-Separated file with information on Boston AirBnB listings.
         - boston_reviews.csv: Comma-Separated file with reviews for boston listings. 
@@ -32,9 +32,12 @@ In it, I intended to explore the AirBnB Boston Housing dataset along three quest
         - positive-words.txt: Text file with list of positive words. 
         - negative-words.txt: Text file with list of negative words.
 
-    - Notebook: Folder containing Python notebook.
+    - Notebook:
 	
-	- AirBnB Boston Housing Dataset Exploration.ipynb: Notebook
+	- AirBnB Boston Housing Dataset Exploration.ipynb
+	
+    - Other:
+    
 	- best_weights.hdf5: Best weights of trained MLP model during training. 
         
 
