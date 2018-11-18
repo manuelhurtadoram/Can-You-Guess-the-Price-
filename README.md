@@ -22,24 +22,23 @@ This project was completed in compliance with the requirements of the Udacity Da
 In it, I intended to explore the AirBnB Boston Housing dataset along three questions that I formulated myself. To answer these questions, I used data science and machine learning knowledge. 
 
 
-3. **File Descriptions
-
-    - Data:
-        
-        - boston_listings.csv: Comma-Separated file with information on Boston AirBnB listings.
-        - boston_reviews.csv: Comma-Separated file with reviews for boston listings. 
-        
-        - positive-words.txt: Text file with list of positive words. 
-        - negative-words.txt: Text file with list of negative words.
-
-    - Notebook:
+3. **File Descriptions**
+	1. Notebook:
 	
-	- AirBnB Boston Housing Dataset Exploration.ipynb
+		1. AirBnB Boston Housing Dataset Exploration.ipynb
+		
+	2. Data: 
 	
-    - Other:
-    
-	- best_weights.hdf5: Best weights of trained MLP model during training. 
-        
+		1. boston_listings.csv: Comma-Separated file with information on Boston AirBnB listings.
+		2. boston_reviews.csv: Comma-Separated file with reviews for boston listings. 
+		
+		3. positive-words.txt: Text file with list of positive words. 
+		4. negative-words.txt: Text file with list of negative words.
+		
+	3. Other:
+	
+		1. best_weights.hdf5: Best weights of trained MLP model during training. 
+
 
 4. **Instructions**
 
